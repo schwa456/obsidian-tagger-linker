@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-tagger-linker",
+	"version": "1.0.1",
+	"description": "This is a sample plugin for Obsidian. This plugin creates tags and links in your notes automatically based on the content of the note. It uses a simple algorithm to identify keywords and phrases that can be turned into tags or links, making it easier to organize and navigate your notes.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

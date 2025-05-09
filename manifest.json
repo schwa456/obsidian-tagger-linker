@@ -1,9 +1,9 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-tagger-linker",
+	"name": "Auto Tagger and Linker",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "This is a sample plugin for Obsidian. This plugin creates tags and links in your notes automatically based on the content of the note. It uses a simple algorithm to identify keywords and phrases that can be turned into tags or links, making it easier to organize and navigate your notes.",
 	"author": "Obsidian",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
